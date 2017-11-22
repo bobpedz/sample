@@ -1,0 +1,51 @@
+body {
+    background: moccasin;
+}
+
+.wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    box-shadow: 5px 5px 40px #888888;
+}
+
+.logo{
+    height:200px;
+    background: mediumorchid;
+ 
+}
+
+.nav{
+    height:50px;
+    background: mediumpurple;
+ 
+}
+.content {
+    width: 100%;
+    height:300px;
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+.contA{
+    height:300px;
+    background: mediumturquoise;
+    width: 30%;
+    float:left;
+ 
+}
+.contB{
+    height:300px;
+    background: lightgreen ;
+    width: 70%;
+    float:right;
+ 
+}
+
+.footer{
+    height:50px;
+    width:100%;
+    background: salmon;
+}
